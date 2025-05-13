@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkFinderWebApp", "ParkFinderWebApp.csproj", "{042A5BB3-7756-4AE1-88AB-C194A958799B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042A5BB3-7756-4AE1-88AB-C194A958799B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042A5BB3-7756-4AE1-88AB-C194A958799B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042A5BB3-7756-4AE1-88AB-C194A958799B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042A5BB3-7756-4AE1-88AB-C194A958799B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C949BF7E-50C5-42D4-9C14-084B9A7E6F56}
+	EndGlobalSection
+EndGlobal
